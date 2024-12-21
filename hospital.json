@@ -1,0 +1,17 @@
+[
+  {
+    "name": "sp fort",
+    "patient_count": 40,
+    "place": "tvm"
+  },
+  {
+    "name": "SUT",
+    "patient_count": 50,
+    "place": "tvm"
+  },
+  {
+    "name": "jubilee",
+    "patient_count": "500",
+    "place": "palayam"
+  }
+]
